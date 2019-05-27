@@ -12,6 +12,7 @@ android {
 
   defaultConfig {
     targetSdkVersion _targetSdkVersion
+    minSdkVersion 16
   }
 
   lintOptions {
